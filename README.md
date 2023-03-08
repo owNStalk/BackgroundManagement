@@ -1,11 +1,7 @@
-# BackgroundManagement
-### Technology stack
+# Vue 3 + Vite
 
-- vue-router
-- vuex
-- axios
-- element-ui(界面组件库)
-- 二次封装axios(接口请求的二次封装)
-- mock(模拟后台数据)
-- echarts(数据展示)
-- Tailwind CSS(样式部署)
+This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+
+## Recommended IDE Setup
+
+- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
