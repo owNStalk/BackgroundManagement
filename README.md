@@ -1,3 +1,3 @@
 # Background Management
 
-Please execute the "npm i" installation dependency before deploying to the local directory
+Please execute the "yarn" installation dependency before deploying to the local directory
